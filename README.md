@@ -1,4 +1,4 @@
-# Activity-Recognition-
+# Activity-Recognition
 
 > Deep learning is perhaps the nearest future of human activity recognition. While there are many existing non-deep method, we still want to unleash the full power of deep learning. This repo provides a demo of using deep learning to perform human activity recognition.
 
